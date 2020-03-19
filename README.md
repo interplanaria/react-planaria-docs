@@ -200,43 +200,7 @@ ___
 | setQuery     |   Object    |                                                       | Updates Bitquery object                        |
 | setToken     |   String    |                                                       | Updates user token. Start verification         |
 
----
-
-# CLI
-
-## 0. install
-
-```
-$ npm i @planaria/react-planaria -g
-```
-
-## 1. init
-
-```
-$ rp init cool-project
-```
-
-## 2. utils
-
-Launch dev server:
-
-```
-$ rp dev
-```
-
-Webpack build:
-
-```
-$ rp build
-```
-
-Serve static build files:
-
-```
-$ rp server
-```
-
----
+___
 
 # Examples
 
