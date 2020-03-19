@@ -1,0 +1,25 @@
+.markdown-section {
+  max-width: 800px;
+}
+.markdown-section pre {
+/*
+  padding: 10px !important;
+  line-height: 16px !important;
+  */
+  font-size: 11px !important;
+  background: cornsilk !important;
+}
+.markdown-section pre>code {
+  background: none;
+}
+p img {
+  border: 1px solid rgba(0,0,0,0.06);
+  padding: 10px;
+}
+body {
+  font-family: sans-serif;
+}
+h1 {
+  letter-spacing: -1px;
+  font-weight: bold !important;
+}
